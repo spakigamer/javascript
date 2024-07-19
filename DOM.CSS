@@ -1,0 +1,14 @@
+.as{
+    background-color: antiquewhite;
+
+}
+img{
+    width: 200px;
+    margin: 20px;
+}
+
+.ad{
+    box-sizing: border-box;
+    display: flex;
+}
+
